@@ -7,15 +7,34 @@
 
 ## How to run
 
+Git clone the repo and run the following commands:
+
 ```shell
+npm install
 npm run dev
 ```
 
+## Tech Used
+
+- Package : npm
+- Build Tool : Vite
+- Frontend : React
+- Data Storage : IndexedDB, LocalStorage, SessionStorage, Cookies
+
 ## Learned
 
-- How to use Vite as build tool to create a React app
-- React concepts: components, hooks, useState, useEffect
-- Tried different implementations of storage => localStorage, sessionStorage, cookies, in memory storage and IndexedDB
+- React
+
+  - Concepts: components, hooks (useState, useEffect)
+
+- Storage
+
+  - Tried LocalStorage, SessionStorage, Cookies, IndexedDB, in memory storage etc
+
+- Vite
+
+  - Introduced to Vite as a build tool
+  - Learned HMR
 
 ## Notes
 

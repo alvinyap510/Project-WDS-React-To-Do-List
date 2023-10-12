@@ -14,4 +14,4 @@ npm run dev
 ## Learned
 
 - How to use Vite as build tool to create a React app
-- React concepts: components, hooks, useState, useEffect etc...
+- React concepts: components, hooks, useState, useEffect, and also the use of localStorage to store info

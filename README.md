@@ -5,6 +5,10 @@
 [Web-Dev-Simplified: Learn React With This One Project
 ](https://www.youtube.com/watch?v=Rh3tobg7hEo&t=21s)
 
+## Introduction
+
+A micro project that utilizes Vite as build tool to create a React To-Do-List app, and store the input in storage (LocalStorage, SessionStorage, Cookies, IndexedDB).
+
 ## How to run
 
 Git clone the repo and run the following commands:

@@ -1,4 +1,4 @@
-# WDS-React-Tutorial
+# WDS-React-To-Do-List
 
 ## Course
 
